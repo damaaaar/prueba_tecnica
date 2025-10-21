@@ -1,0 +1,9 @@
+"""
+¿QUÉ VA A PASAR CUANDO EJECUTE ESTE CÓDIGO Y POR QUÉ?
+"""
+
+diccionario = {"a": 1, "b": 2}
+print(diccionario["c"])
+
+# ¿CUÁL ES LA DIFERENCIA ENTRE UNA LISTA Y UN DICCIONARIO EN PYTHON?
+# ¿qUÉ ES UNA FUNCIÓN LAMBDA Y CUANDO LA USARÍAS?
